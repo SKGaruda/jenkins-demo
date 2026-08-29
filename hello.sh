@@ -1,7 +1,12 @@
 #!/bin/bash
 
-echo "Hello from Jenkins!"
-echo "Build triggered automatically from GitHub!"
-echo "Build completed successfully."
+echo "================================"
+echo " Jenkins CI/CD Demo"
+echo "================================"
+
+echo "GitHub commit received."
+echo "Jenkins build triggered."
+echo "Script executed successfully."
+
 date
 
