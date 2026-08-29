@@ -1,9 +1,7 @@
 #!/bin/bash
 
 echo "Hello from Jenkins!"
-echo "Build executed successfully."
-echo "Current date:"
+echo "Build triggered automatically from GitHub!"
+echo "Build completed successfully."
 date
-
-
 
